@@ -3,10 +3,14 @@
 /**
  * print_sign - prints the sign of a number.
 <<<<<<< HEAD
+<<<<<<< HEAD
  * @n: The number of which the sign will be printed.
 =======
  * @c: The number of which the sign will be printed.
 >>>>>>> 424cb94cbf2f67b4834c1e1fdc4e3cf7e895a217
+=======
+ * @n: The number of which the sign will be printed.
+>>>>>>> cc505c348553142a12c2e73c85f421cdd8315a24
  *
  * Return: 1 if the number is grater than zero,
  *         0 if the number is zero,
