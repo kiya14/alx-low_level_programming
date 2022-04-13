@@ -20,7 +20,7 @@ fib2 = sum;
 
 if (count == 49)
 printf("\n");
-else 
+else
 printf(", ");
 }
 
