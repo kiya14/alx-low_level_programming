@@ -20,7 +20,7 @@ else if (i % 3 != 0 && i % 5 == 0)
 {
 printf("Buzz");
 }
-else
+else if
 {
 printf("%d", i);
 }
