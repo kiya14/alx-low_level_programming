@@ -22,12 +22,10 @@ count = length;
 start_c = s;
 end_c = s;
 
-
-for (i = 0; i < count / 2; i++)
+for (i = 0; i < count - 1; i++)
 {
 end_c++;
 }
-
 
 for (i = 0; i < count / 2; i++)
 {
