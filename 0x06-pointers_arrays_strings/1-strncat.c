@@ -18,4 +18,3 @@ for (y = 0; src[y] != '\0' && n > 0; y++, n--, x++)
   }
   return (dest);
 }
-}
