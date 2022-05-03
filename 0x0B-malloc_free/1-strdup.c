@@ -29,8 +29,7 @@ new[i] = '\0';
 return (new);
 }
 
-
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _strlen - gives length of a string
